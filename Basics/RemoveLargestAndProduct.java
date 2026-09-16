@@ -24,7 +24,7 @@ Test Cases:
    Output: 0
 */
 
-import java.util.*;
+import java.util.Scanner;
 
 public class RemoveLargestAndProduct
 {
