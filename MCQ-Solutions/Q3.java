@@ -12,7 +12,7 @@ public class Q3 {
         char out = (char) ((check ? res : 0) - ('D' - 'A'));
         //103 - 68 - 65 = 100 = 'd'
         System.out.printf("%o", (int) out);
-        //100 = 144 in octal 
+        //100 = 0144 (octal)
         //Output:144
     }
 }
