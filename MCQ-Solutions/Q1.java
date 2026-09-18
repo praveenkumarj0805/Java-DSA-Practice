@@ -11,7 +11,7 @@ public class Q1 {
         char token = (char) ((flag ? score : score - 2) + ('a' - 0x58));
         //score=94+(97-16*5+8) = 94+9 = 103 = 'g'
         System.out.printf("%X", (int) token);
-        //103 = 0x67
+        //103 = 0x67 (hexadecimal)
         //output:67
     }
 }
